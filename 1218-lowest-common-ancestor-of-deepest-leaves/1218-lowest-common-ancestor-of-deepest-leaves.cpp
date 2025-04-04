@@ -21,9 +21,9 @@ public:
 
         if (leftSubtree.first == rightSubtree.first)
             return {leftSubtree.first + 1, node};
-        else if (leftSubtree.first > rightSubtree.first)
+        else if (leftSubtree.first > rightSubtree.first) // more depth in left subtree 
             return {leftSubtree.first + 1, leftSubtree.second};
-        else
+        else // more depth in right subtree
             return {rightSubtree.first + 1, rightSubtree.second};
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
