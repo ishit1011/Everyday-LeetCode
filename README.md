@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Tree
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## String
+|  |
+| ------- |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 <!---LeetCode Topics End-->
