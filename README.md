@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
