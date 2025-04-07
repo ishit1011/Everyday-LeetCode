@@ -92,4 +92,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
