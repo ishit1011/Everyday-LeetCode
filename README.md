@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Tree
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
