@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Linked List
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
