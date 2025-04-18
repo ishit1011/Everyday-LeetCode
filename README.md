@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0038-count-and-say) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Sliding Window
