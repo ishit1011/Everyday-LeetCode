@@ -22,9 +22,6 @@ public:
             largestSize = max(largestSize,y);
             freqMp[y]++;
         }
-        for(auto[x,y] : freqMp){
-            cout<<x<<" "<<y<<endl;
-        }
         maxCount = freqMp[largestSize];
         return maxCount;
     }
