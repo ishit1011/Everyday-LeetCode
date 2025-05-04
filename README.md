@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1500-count-largest-group](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -185,4 +187,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
