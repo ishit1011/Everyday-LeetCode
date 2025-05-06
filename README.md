@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0035-search-insert-position) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0792-binary-search) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
