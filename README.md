@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1500-count-largest-group](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1500-count-largest-group) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
