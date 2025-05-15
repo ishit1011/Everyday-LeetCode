@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Math
 |  |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
