@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
