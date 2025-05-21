@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
