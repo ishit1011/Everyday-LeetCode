@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0038-count-and-say) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -279,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
