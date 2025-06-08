@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -284,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
