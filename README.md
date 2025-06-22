@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Graph
 |  |
 | ------- |
