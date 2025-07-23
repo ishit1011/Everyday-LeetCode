@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
