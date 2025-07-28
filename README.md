@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -227,10 +228,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
