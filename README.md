@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
+| [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1500-count-largest-group) |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
+| [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
