@@ -3,6 +3,8 @@ public:
     int MOD = 1000000007;
     int solve(int n, int x, int i, vector<vector<int>> &dp){
         if(n == 0) return 1;
+        // important to check num doesnt exceed int range : happens when 
+        // continuous NOT-TAKE happens
         int num = pow(i,x);
         if(n-num < 0) return 0;
         if(dp[n][i] != -1) return dp[n][i];
