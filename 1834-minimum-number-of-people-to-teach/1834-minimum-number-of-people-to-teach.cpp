@@ -37,6 +37,10 @@ public:
         }
 
         // Step 2: For each language, count unique people to teach
+
+        // iterate through languages BCZ ---> IMP
+        // "You can choose one language and teach it to some users 
+        // so that all friends can communicate with each other"
         cout<<endl;
         int minTeach = INT_MAX;
         for (int lang = 1; lang <= n; ++lang) {
