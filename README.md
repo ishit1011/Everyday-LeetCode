@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -402,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
