@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
