@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Graph
 |  |
 | ------- |
