@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0481-magical-string) |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0792-binary-search) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
