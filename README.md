@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
