@@ -13,26 +13,31 @@ public:
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL) return NULL;
         ListNode* curr = head;
-        int cnt = 0;
-        while(curr){
-            cnt++;
+        int n = 0;
+        while(curr != NULL){
+            n++;
             curr = curr->next;
         }
-        k = k % cnt;
+        cout<<"rem = "<<k%n<<endl;
+        int rem = k % n;
+        if(rem == 0) return head;
+        
         ListNode* last = head;
         ListNode* secondLast = NULL;
         ListNode* first = head;
-        while(k--){
+        while(rem--){
             while(last->next != NULL){
                 secondLast = last;
                 last = last->next;
             }
             if(secondLast && last && first){
                 secondLast->next = NULL;
-            last->next = first;
-            first = last;
+                last->next = first;
+                first = last;
             }
         }
+
+        // cout<<"temp->val = "<<temp->val<<endl;
         return first;
     }
 };
