@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
