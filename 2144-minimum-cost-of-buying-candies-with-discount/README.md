@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/">2144. Minimum Cost of Buying Candies With Discount</a></h2><h3>Easy</h3><hr><div><p>A shop is selling candies at a discount. For <strong>every two</strong> candies sold, the shop gives a <strong>third</strong> candy for <strong>free</strong>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount">2248. Minimum Cost of Buying Candies With Discount</a></h2><h3>Easy</h3><hr><p>A shop is selling candies at a discount. For <strong>every two</strong> candies sold, the shop gives a <strong>third</strong> candy for <strong>free</strong>.</p>
 
 <p>The customer can choose <strong>any</strong> candy to take away for free as long as the cost of the chosen candy is less than or equal to the <strong>minimum</strong> cost of the two candies bought.</p>
 
@@ -11,7 +11,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> cost = [1,2,3]
+<pre>
+<strong>Input:</strong> cost = [1,2,3]
 <strong>Output:</strong> 5
 <strong>Explanation:</strong> We buy the candies with costs 2 and 3, and take the candy with cost 1 for free.
 The total cost of buying all candies is 2 + 3 = 5. This is the <strong>only</strong> way we can buy the candies.
@@ -21,7 +22,8 @@ The cost of the free candy has to be less than or equal to the minimum cost of t
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> cost = [6,5,7,9,2,2]
+<pre>
+<strong>Input:</strong> cost = [6,5,7,9,2,2]
 <strong>Output:</strong> 23
 <strong>Explanation:</strong> The way in which we can get the minimum cost is described below:
 - Buy candies with costs 9 and 7
@@ -33,7 +35,8 @@ Hence, the minimum cost to buy all candies is 9 + 7 + 5 + 2 = 23.
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> cost = [5,5]
+<pre>
+<strong>Input:</strong> cost = [5,5]
 <strong>Output:</strong> 10
 <strong>Explanation:</strong> Since there are only 2 candies, we buy both of them. There is not a third candy we can take for free.
 Hence, the minimum cost to buy all candies is 5 + 5 = 10.
@@ -46,4 +49,3 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 	<li><code>1 &lt;= cost.length &lt;= 100</code></li>
 	<li><code>1 &lt;= cost[i] &lt;= 100</code></li>
 </ul>
-</div>
