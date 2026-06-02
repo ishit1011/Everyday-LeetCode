@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
@@ -250,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
