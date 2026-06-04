@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
