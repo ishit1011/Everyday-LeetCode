@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int solve(int i, int j, string s, string t, vector<vector<int>> &dp){
-        if(j >= t.size()){
-            return 1;
-        }
-        if(j < t.size() && i >= s.size()){
-            return 0;
-        }
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
+    int solve(string &s, string &t, int i, int j, int n, int m, vector<vector<int>> &dp){
+        if(j == m) return 1;
+        if(i == n) return 0;
+
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int take = 0;
         if(s[i] == t[j]){
-            return dp[i][j] = (solve(i+1,j+1,s,t,dp) + solve(i+1,j,s,t,dp));
+            take = solve(s,t,i+1,j+1,n,m,dp);
         }
-        return dp[i][j] = solve(i+1,j,s,t,dp);
+        int notTake = solve(s,t,i+1,j,n,m,dp);
+
+        return dp[i][j] = take + notTake;
     }
     int numDistinct(string s, string t) {
         int n = s.size(), m = t.size();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        return solve(0,0,s,t,dp);
+        vector<vector<int>> dp(n,vector<int>(m,-1));
+        int ans = solve(s,t,0,0,n,m,dp);
+        return ans;
     }
 };
