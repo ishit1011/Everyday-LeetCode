@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3870-count-commas-in-range](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
