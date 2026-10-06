@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1448-maximum-69-number) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
