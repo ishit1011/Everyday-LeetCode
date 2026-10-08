@@ -1,17 +1,6 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        // s     = "(()())(())"
-        // depth =  1 2 1 2 1 0 1 2 1 0
-
-        // s = "(()())(())(()(()))"
-        // d =  1 2 2 2 2 1 1 2
-        // ( -> ( : depth++, ( --> ) : depth--
-        // ) --> ( : depth++ , ) --> ) : depth--
-
-        // ((()()))
-        // 1 2 3 2 3 2 1 0
-        
         int n = s.size();
         if(n == 0) return s;
         vector<int> depth(n);
