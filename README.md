@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
