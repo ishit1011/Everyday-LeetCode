@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3870-count-commas-in-range](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
