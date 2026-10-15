@@ -5,7 +5,6 @@ public:
         int ans = 0;
         for(int i=0; i<n; i++){
             set<int> distinct;
-            cout<<"i : "<<i<<" --> ";
             for(int j=i; j<n; j++){
                 distinct.insert(nums[j]);
                 ans += pow(distinct.size(),2);
