@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0792-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1009-pancake-sorting](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1009-pancake-sorting) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2126-destroying-asteroids) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
