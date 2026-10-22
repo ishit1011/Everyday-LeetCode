@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
