@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Combinatorics
 | Problem Name | Difficulty |
