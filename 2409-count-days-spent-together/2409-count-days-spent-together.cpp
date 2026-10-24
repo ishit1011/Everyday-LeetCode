@@ -54,9 +54,7 @@ public:
             }
             bobEndDay = sumDays + bobDEnd;
         }
-
-        cout<<"alice start : "<<aliceStartDay<<" alice end : "<<aliceEndDay<<endl;
-        cout<<"bob start : "<<bobStartDay<<" bob end : "<<bobEndDay<<endl;
+        
         int ans = min(aliceEndDay,bobEndDay)-max(aliceStartDay,bobStartDay)+1;
 
         return ans > 0 ? ans : 0;
