@@ -8,10 +8,10 @@ public:
         if(grid[i][j] == 1) return 1;
 
         isvis[i][j] = true;
-        int left = checkIsland(grid,isvis,i,j-1,n,m); // left
-        int right = checkIsland(grid,isvis,i,j+1,n,m); // right
-        int up = checkIsland(grid,isvis,i-1,j,n,m); // up
-        int down = checkIsland(grid,isvis,i+1,j,n,m); // down
+        int left = checkIsland(grid,isvis,i,j-1,n,m); 
+        int right = checkIsland(grid,isvis,i,j+1,n,m); 
+        int up = checkIsland(grid,isvis,i-1,j,n,m); 
+        int down = checkIsland(grid,isvis,i+1,j,n,m);
 
         return left & right & up & down;
     }
@@ -22,18 +22,8 @@ public:
         for(int i=1; i<n-1; i++){
             for(int j=1; j<m-1; j++){
                 if(grid[i][j] == 0 && !isvis[i][j]){
-                    // cout<<"i : "<<i<<" j : "<<j<<endl;
                     int closed = checkIsland(grid,isvis,i,j,n,m);
-                    // cout<<"closed : "<<closed<<endl;
                     ans += closed;
-
-                    
-                    // for(int k=0; k<n; k++){
-                    //     for(int l=0; l<m; l++){
-                    //         cout<<"isvis ["<<k<<"]["<<l<<"] : "<<isvis[k][l]<<" ";
-                    //     }
-                    //     cout<<"\n";
-                    // }
                 }
                 
             }
