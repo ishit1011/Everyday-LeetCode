@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -145,11 +146,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1861-rotating-the-box) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Shortest Path
@@ -537,4 +541,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
