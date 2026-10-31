@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3665-twisted-mirror-path-count](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3665-twisted-mirror-path-count](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Linked List
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3665-twisted-mirror-path-count](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Shortest Path
 | Problem Name | Difficulty |
