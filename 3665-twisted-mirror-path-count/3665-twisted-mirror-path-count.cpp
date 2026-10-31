@@ -7,20 +7,19 @@ public:
 
         if(dp[i][j][lastStep] != -1) return dp[i][j][lastStep];
 
-        int rTotal = 0, dTotal = 0;
+        int total = 0;
         // laststep : T = right, F = down
         if(grid[i][j] == 1 && lastStep == true){
-            dTotal = solve(grid,i+1,j,false,m,n,dp);
+            total = solve(grid,i+1,j,false,m,n,dp);
         }
         if(grid[i][j] == 1 && lastStep == false){
-            rTotal = solve(grid,i,j+1,true,m,n,dp);
+            total = solve(grid,i,j+1,true,m,n,dp);
         }
         if(grid[i][j] == 0){
-            rTotal = solve(grid,i,j+1,true,m,n,dp);
-            dTotal = solve(grid,i+1,j,false,m,n,dp);
+            total = solve(grid,i,j+1,true,m,n,dp) + solve(grid,i+1,j,false,m,n,dp);
         }
 
-        return dp[i][j][lastStep] = (rTotal + dTotal) % MOD;
+        return dp[i][j][lastStep] = (total) % MOD;
     }
     int uniquePaths(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size();
