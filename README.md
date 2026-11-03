@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0475-heaters](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
