@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3321-type-of-triangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3639-zero-array-transformation-i](https://github.com/ishit1011/Everyday-LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ishit1011/Everyday-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
