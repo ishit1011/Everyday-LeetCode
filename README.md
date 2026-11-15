@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1656-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1500-count-largest-group) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2050-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ishit1011/Everyday-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0806-domino-and-tromino-tiling](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0868-push-dominoes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishit1011/Everyday-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishit1011/Everyday-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/ishit1011/Everyday-LeetCode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishit1011/Everyday-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2249-count-the-hidden-sequences](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/ishit1011/Everyday-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
